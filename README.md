@@ -1,4 +1,3 @@
-Faça um código readme.md sobre essa aplicação
 🗺️ App de Geolocalização - React Native com Expo
 Uma aplicação móvel completa desenvolvida em React Native com TypeScript que demonstra o uso de geolocalização, geocodificação e integração com APIs de mapas.
 
