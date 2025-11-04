@@ -4,6 +4,7 @@ Uma aplicação móvel completa desenvolvida em React Native com TypeScript que 
 📱 Sobre o Projeto
 Este aplicativo oferece funcionalidades avançadas de localização, permitindo aos usuários obter sua posição atual, converter coordenadas em endereços legíveis, salvar localizações e visualizar pontos de interesse em mapas.
 
+
 🚀 Funcionalidades
 🌟 Principais
 📍 Geolocalização em Tempo Real: Obtenha coordenadas precisas via GPS
